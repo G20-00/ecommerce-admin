@@ -39,7 +39,7 @@ spec:
             - name: STRIPE_API_KEY
               value: "sk_test_51P8pSCJ1AaM8kFGZYUQ7xqojng2gQmKnzIXXe55nevsMYKvFD41PTiSyaSoydnMsLarwvh4o71yoUebKNpFmFcxX00XmwBz033"
             - name: FRONTEND_STORE_URL
-              value: "http://ecommerce:3001"
+              value: "http://172.171.88.146:3001"
             - name: STRIPE_WEBHOOK_SECRET
               value: "whsec_f3d41e2a427dee4932f5cb254f17061d9e0c8e5af008defe198ca35a37413028"
             - name: MYSQL_PORT
